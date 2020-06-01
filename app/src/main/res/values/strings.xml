@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Downloader using Handler Message</string>
+    <string name="t1">File URL</string>
+    <string name="t2">File Description</string>
+    <string name="b1">Download</string>
+    <string name="b2">Open File</string>
+</resources>
